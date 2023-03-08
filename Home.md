@@ -9,13 +9,13 @@ Welcome to the official 3kh0 docs!
 
 ### Table of contents
 
-* [Home](https://github.com/3kh0/3kh0.github.io/wiki/)
-* [How to Add a Game](https://github.com/3kh0/3kh0.github.io/wiki/Add-Game)
-* [How to Host A Private CDN](https://github.com/3kh0/3kh0.github.io/wiki/Create-A-CDN-Server)
-* [Create a Theme](https://github.com/3kh0/3kh0.github.io/wiki/Create-Theme)
-   * [Create a Secret Theme](https://github.com/3kh0/3kh0.github.io/wiki/Secret-Themes)
-   * [Create a Theme Code](https://github.com/3kh0/3kh0.github.io/wiki/Create-Theme-Code)
-* [Create a Page with a Navbar](https://github.com/3kh0/3kh0.github.io/wiki/Pages-With-Navbar)
+* [Home](./)
+* [How to Add a Game](./Add-Game)
+* [How to Host A Private CDN](./cdn)
+* [Create a Theme](./Create-Theme)
+   * [Create a Secret Theme](./Secret-Themes)
+   * [Create a Theme Code](./Create-Theme-Code)
+* [Create a Page with a Navbar](./Pages-With-Navbar)
 
 <p align="center">
 ©3kh0 2023 | <a href="https://3kh0.github.io">3kh0.github.io</a>
